@@ -13,6 +13,7 @@ Provides safe power control, audio I/O, digital automotive signals, CAN bus conn
 - CAN bus interface (MCP2515 + MCP2551, SPI1)
 - Optional 1.8" SPI LCD display connector
 - Reverse‑gear detection, auxiliary inputs, and 12 V output
+- Yocto based Linux firmware
 
 ---
 
